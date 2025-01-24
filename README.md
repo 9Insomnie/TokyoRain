@@ -1,22 +1,3 @@
-```markdown
-🌧️⃟ TokyoRain - 让混淆的PowerShell载荷像雨点般隐秘渗透 ☔️
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="digital rain">
-</p>
-
-[![GitHub stars](https://img.shields.io/github/stars/9Insomnie/TokyoRain?style=for-the-badge&color=0099ff)](https://github.com/9Insomnie/TokyoRain/stargazers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
-## 🎩 这是什么魔法？
-
-还在为反病毒软件的严格检测发愁？TokyoRain 来帮你「人工降雨」！通过动态字符串混淆和Ngrok隧道支持，让你的PowerShell载荷像雨点一样绕过检测，滋润你的红队行动~ 💻🌧️
-
-```bash
-# 基础咒语示例
-python tokyo_rain.py -l 192.168.1.233 -p 3399
-```
-
 ## 🚀 超能力清单
 
 - 🎭 **动态变脸术**：每次生成的载荷都有新面孔，让检测引擎怀疑人生！
@@ -98,12 +79,3 @@ nt authority\system 🌟
 
 本项目采用 MIT 许可证 - 详情请见 [LICENSE](LICENSE) 文件。  
 Made with ❤️ by [9Insomnie](https://github.com/9Insomnie) | 灵感来自无数个不眠雨夜 🌧️
-
-```
-
----
-
-<p align="center">
-  🌀 准备好了吗？让我们在数字世界的暴雨中起舞吧！ 💃🌧️🕺
-</p>
-```
