@@ -1,4 +1,4 @@
-# 🌧️ TokyoRain - 智能混淆工具
+# 🌧️ TokyoRain
 
 让PowerShell载荷像东京细雨般隐秘
 
