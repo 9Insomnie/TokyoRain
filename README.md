@@ -23,7 +23,7 @@ pip install -r requirements.txt  # 安装魔法药水材料
 # 开启你的降雨仪式（记得替换IP哦~）
 python tokyo.py -l 192.168.1.666 -p 2333
 
-# 想直接看「雨水源码」？加上-r参数！
+# 想直接看「Tokyo源码」？加上-r参数！
 python tokyo.py -r raw
 ```
 
