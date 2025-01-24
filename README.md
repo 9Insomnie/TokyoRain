@@ -11,8 +11,8 @@
 把这份「魔法配方」克隆到你的法术书（本地仓库）吧！
 
 ```bash
-git clone https://github.com/9Insomnie/TokyoRain.git
-cd TokyoRain/
+git clone https://github.com/9Insomnie/Tokyo.git
+cd Tokyo/
 pip install -r requirements.txt  # 安装魔法药水材料
 ```
 
@@ -21,16 +21,16 @@ pip install -r requirements.txt  # 安装魔法药水材料
 ### 基础模式
 ```bash
 # 开启你的降雨仪式（记得替换IP哦~）
-python tokyo_rain.py -l 192.168.1.666 -p 2333
+python tokyo.py -l 192.168.1.666 -p 2333
 
 # 想直接看「雨水源码」？加上-r参数！
-python tokyo_rain.py -r raw
+python tokyo.py -r raw
 ```
 
 ### 高级模式
 ```bash
 # 启用Ngrok魔法隧道（需要先配置好Ngrok）
-python tokyo_rain.py -n ngrok
+python tokyo.py -n ngrok
 ```
 
 ### 控制台魔法秀
