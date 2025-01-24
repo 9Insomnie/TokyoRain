@@ -55,4 +55,4 @@ desktop-9ins0m\admin
 MIT Licensed | 开发者 [9Insomnie](https://github.com/9Insomnie)
 ```
 
-<center>🖇️ 让安全测试像东京夜雨般优雅隐秘</center>
+🖇️ 让安全测试像东京夜雨般优雅隐秘
