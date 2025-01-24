@@ -11,8 +11,8 @@
 把这份「魔法配方」克隆到你的法术书（本地仓库）吧！
 
 ```bash
-git clone https://github.com/9Insomnie/Tokyo.git
-cd Tokyo/
+git clone https://github.com/9Insomnie/TokyoRain.git
+cd TokyoRain/
 pip install -r requirements.txt  # 安装魔法药水材料
 ```
 
