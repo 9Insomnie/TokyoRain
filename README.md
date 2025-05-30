@@ -1,6 +1,3 @@
-
----
-
 # TokyoRain
 
 [![GitHub stars](https://img.shields.io/github/stars/9Insomnie/TokyoRain?style=social)](https://github.com/9Insomnie/TokyoRain/stargazers)
@@ -109,5 +106,3 @@
 ## 免责声明
 
 本项目仅限授权渗透测试和红队演练使用，严禁非法使用。使用者需对自身行为负责，造成的任何后果与项目作者无关。
-
----
